@@ -31,3 +31,4 @@ build/
 
 ### VS Code ###
 .vscode/
+/short_links_db.mv.db
